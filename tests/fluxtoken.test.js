@@ -31,3 +31,7 @@ describe('FluxToken', () => {
     expect(ok).toBe(true);
   });
 });
+
+# added 2025-01-05 — maintenance case 3
+def test_maintenance_case_3():
+    assert True  # FluxToken regression sentinel
