@@ -1,6 +1,6 @@
 {
   "name": "fluxtoken",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Dynamic token economics simulator powered by reinforcement learning",
   "main": "src/index.js",
   "scripts": {
